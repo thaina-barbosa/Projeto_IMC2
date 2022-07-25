@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "oXk+Dw9MrPQlpn+HWaGSys83/mvUqP5trv9LfJorCrd34SmgbmCh4f15EXF5g2QP4Cx3JtH+Wj80YSDabgDCyA==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\IMC2\\IMC2\\IMC2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hamic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
