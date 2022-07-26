@@ -22,7 +22,7 @@ namespace IMC
 
             if (result < 18.5)
             {
-                Console.WriteLine("Você está Abaixo do Peso");
+                Console.WriteLine("Você está abaixo do Peso");
             }
             else if (result >= 18.5 && result < 25)
             {
